@@ -1,3 +1,36 @@
+@media (min-width: 992px) {
+
+}
+
+
+@media (min-width: 768px ) and (max-width:  991px) {
+  div#third{
+    clear: both;
+    width: 95.5%;
+  }
+
+  div {
+    width: 46.625%;
+  }
+
+}
+
+
+@media (max-width: 767px ) {
+  
+  div{
+    width: 95.5%;
+  }
+
+  div#second{
+    clear: both;
+  }
+
+  div#third{
+    clear: both;
+  }
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
