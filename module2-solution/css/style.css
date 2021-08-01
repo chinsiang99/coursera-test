@@ -1,1 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
+.title {
+  text-align: center;
+  color: skyblue;
+  margin-top: 20px;
+}
+
+
+
+
+div.content {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 2.25%;
+
+}
+
+div.firstMenu {
+  width: 100%;
+  border: none;
+
+}
+
+div.thirdMenu {
+  width: 100%;
+  border: none;
+
+}
+
+div.secondMenu {
+  width: 100%;
+  border: none;
+
+}
+
+div {
+  background-color: lightyellow;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  width: 30%;
+  float: left;
+
+}
+
+div.name{
+  background-color: orange;
+  float: right;
+  text-align: center;
+}
+
+p {
+  clear: both;
+  text-align: justify;
+}
+
+/********** desktop view **********/
+@media (min-width: 992px) {
+  #p1 {
+    width: 80%;
+  }
+  #p2 {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/********** tablet view **********/
+@media (min-width: 768px ) and (max-width:  991px) {
+  #p1 {
+    width: 80%;
+  }
+  #p2 {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/********** mobile devices view **********/
+@media (max-width: 767px ) {
+  #p1 {
+    width: 80%;
+  }
+  #p2 {
+    width: 150px;
+    height: 150px;
+  }
+}
