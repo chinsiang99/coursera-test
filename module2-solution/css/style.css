@@ -10,26 +10,13 @@
   margin-top: 20px;
 }
 
-div.firstcontent {
+div.content {
   position: relative;
   margin-top: 20px;
   margin-left: 2.25%;
 
 }
 
-div.secondcontent {
-  position: relative;
-  margin-top: 20px;
-  margin-left: 2.25%;
-
-}
-
-div.thirdcontent {
-  position: relative;
-  margin-top: 20px;
-  margin-left: 2.25%;
-
-}
 
 div.firstMenu {
   width: 100%;
