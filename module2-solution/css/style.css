@@ -10,10 +10,7 @@
   margin-top: 20px;
 }
 
-
-
-
-div.content {
+div.firstcontent, div.secondcontent, div.thirdcontent {
   position: relative;
   margin-top: 20px;
   margin-left: 2.25%;
@@ -61,13 +58,7 @@ p {
 
 
 @media (min-width: 992px) {
-  #p1 {
-    width: 80%;
-  }
-  #p2 {
-    width: 150px;
-    height: 150px;
-  }
+
 }
 
 
