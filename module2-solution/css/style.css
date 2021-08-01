@@ -10,7 +10,21 @@
   margin-top: 20px;
 }
 
-div.firstcontent, div.secondcontent, div.thirdcontent {
+div.firstcontent {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 2.25%;
+
+}
+
+div.secondcontent {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 2.25%;
+
+}
+
+div.thirdcontent {
   position: relative;
   margin-top: 20px;
   margin-left: 2.25%;
