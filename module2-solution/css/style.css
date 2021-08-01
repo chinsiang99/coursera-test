@@ -59,7 +59,7 @@ p {
   text-align: justify;
 }
 
-/********** desktop view **********/
+
 @media (min-width: 992px) {
   #p1 {
     width: 80%;
@@ -70,7 +70,7 @@ p {
   }
 }
 
-/********** tablet view **********/
+
 @media (min-width: 768px ) and (max-width:  991px) {
   #p1 {
     width: 80%;
@@ -81,7 +81,7 @@ p {
   }
 }
 
-/********** mobile devices view **********/
+
 @media (max-width: 767px ) {
   #p1 {
     width: 80%;
