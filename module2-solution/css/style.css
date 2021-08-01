@@ -64,18 +64,18 @@ p {
 
 
 @media (min-width: 768px ) and (max-width:  991px) {
-  div#second{
+  #third{
     clear: both;
   }
 }
 
 
 @media (max-width: 767px ) {
-  div#second{
+  #second{
     clear: both;
   }
 
-  div#third{
+  #third{
     clear: both;
   }
 }
