@@ -58,24 +58,3 @@ p {
 }
 
 
-@media (min-width: 992px) {
-
-}
-
-
-@media (min-width: 768px ) and (max-width:  991px) {
-  #third{
-    clear: both;
-  }
-}
-
-
-@media (max-width: 767px ) {
-  #second{
-    clear: both;
-  }
-
-  #third{
-    clear: both;
-  }
-}
